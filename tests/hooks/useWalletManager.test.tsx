@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import React, { PropsWithChildren } from 'react';
+import React, { PropsWithChildren } from 'reac';
 import { renderHook, act } from '@testing-library/react-native';
 import { create, StoreApi } from 'zustand';
 import { useWalletManager } from '../../src/hooks/useWalletManager';
